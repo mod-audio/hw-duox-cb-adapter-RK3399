@@ -4,8 +4,8 @@ E:\Clients\MOD Devices GmbH\MOD DUO X-CB-G3399\Project Outputs for mod_x_cb_g339
 ========================================================================================================================
 File Design Information:
 
-Date:       13/10/19
-Time:       14:26
+Date:       18/10/19
+Time:       10:59
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
@@ -14,17 +14,6 @@ Units used: mil
 "D1","1N4148WQ-7-F","BottomLayer","SOD123","1965.000","465.000","360","DIODE GEN PURP 100V 300MA SOD123"
 "C1","22uF","BottomLayer","CAPC1608N","2908.511","432.228","270","CAP CER 22UF 6.3V X5R 0603"
 "U2","G3399","TopLayer","G3399-MOD","1496.063","1338.583","360","ROCKCHIP R3399 SoM"
-"R12","3.9K","BottomLayer","RESC1005N","2787.852","1415.000","180","RES SMD 3.9K OHM 1% 1/16W 0402"
-"R13","8.2K","BottomLayer","RESC1005N","2788.361","1375.000","360","RES 8.2K OHM 1% 1/16W 0402"
-"R11","10K","BottomLayer","RESC1005N","2691.488","1218.819","90","RES SMD 10K OHM 1% 1/16W 0402"
-"R10","10K","BottomLayer","RESC1005N","2863.578","1260.000","270","RES SMD 10K OHM 1% 1/16W 0402"
-"R9","10K","BottomLayer","RESC1005N","2740.000","1501.220","90","RES SMD 10K OHM 1% 1/16W 0402"
-"R8","10K","BottomLayer","RESC1005N","2903.545","1547.270","270","RES SMD 10K OHM 1% 1/16W 0402"
-"R7","10K","BottomLayer","RESC1005N","2778.229","1678.650","90","RES SMD 10K OHM 1% 1/16W 0402"
-"R6","10K","BottomLayer","RESC1005N","2931.772","1720.000","270","RES SMD 10K OHM 1% 1/16W 0402"
-"Q3","2N7002","BottomLayer","SOT23-3N","2774.582","1232.598","270","MOSFET N-CH 60V 115MA SOT-23"
-"Q2","2N7002","BottomLayer","SOT23-3N","2825.000","1515.000","270","MOSFET N-CH 60V 115MA SOT-23"
-"Q1","2N7002","BottomLayer","SOT23-3N","2852.522","1692.598","270","MOSFET N-CH 60V 115MA SOT-23"
 "C6","1uF","BottomLayer","CAPC1005N","1925.000","390.000","180","CAP CER 1UF 6.3V X5R 0402"
 "C5","22uF","BottomLayer","CAPC1608N","1407.185","2568.184","360","CAP CER 22UF 6.3V X5R 0603"
 "C3","22uF","BottomLayer","CAPC1608N","2850.000","432.228","270","CAP CER 22UF 6.3V X5R 0603"
