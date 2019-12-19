@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+E:\Clients\MOD Devices GmbH\MOD DUO X-CB-G3399\Project Outputs for mod_x_cb_g3399\Pick Place for mod_duo_x_g3399(PROTO).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/12/19
+Time:       17:56
+Revision:   Not in VersionControl
+Variant:    PROTO
+Units used: mil
+
+Designator Comment                 Layer       Footprint      Center-X(mil) Center-Y(mil) Rotation Description                        
+C13        0.1uF                   TopLayer    CAPC1005N      2090.000      150.000       360      "CAP CER 0.1UF 50V X7R 0402"       
+U5         TXB0104PWR              BottomLayer TSSOP_PW14     767.717       1269.370      270      "IC TRNSLTR BIDIRECTIONAL 14TSSOP" 
+U4         TXB0104PWR              BottomLayer TSSOP_PW14     200.000       2100.000      90       "IC TRNSLTR BIDIRECTIONAL 14TSSOP" 
+U3         TXB0104PWR              BottomLayer TSSOP_PW14     767.717       1805.000      90       "IC TRNSLTR BIDIRECTIONAL 14TSSOP" 
+C12        0.1uF                   BottomLayer CAPC1005N      636.806       1075.000      360      "CAP CER 0.1UF 50V X7R 0402"       
+C11        0.1uF                   BottomLayer CAPC1005N      636.806       1470.000      360      "CAP CER 0.1UF 50V X7R 0402"       
+C10        0.1uF                   BottomLayer CAPC1005N      346.063       2303.150      180      "CAP CER 0.1UF 50V X7R 0402"       
+C9         0.1uF                   BottomLayer CAPC1005N      346.063       1895.000      180      "CAP CER 0.1UF 50V X7R 0402"       
+C8         0.1uF                   BottomLayer CAPC1005N      879.300       2011.500      180      "CAP CER 0.1UF 50V X7R 0402"       
+C7         0.1uF                   BottomLayer CAPC1005N      879.300       1594.488      180      "CAP CER 0.1UF 50V X7R 0402"       
+D1         1N4148WQ-7-F            BottomLayer SOD123         1965.000      465.000       360      "DIODE GEN PURP 100V 300MA SOD123" 
+C1         22uF                    BottomLayer CAPC1608N      2908.511      432.228       270      "CAP CER 22UF 6.3V X5R 0603"       
+U2         G3399                   TopLayer    G3399-MOD      1496.063      1338.583      360      "ROCKCHIP R3399 SoM"               
+C6         1uF                     BottomLayer CAPC1005N      1925.000      390.000       180      "CAP CER 1UF 6.3V X5R 0402"        
+C5         22uF                    BottomLayer CAPC1608N      1407.185      2568.184      360      "CAP CER 22UF 6.3V X5R 0603"       
+C3         22uF                    BottomLayer CAPC1608N      2850.000      432.228       270      "CAP CER 22UF 6.3V X5R 0603"       
+C2         22uF                    BottomLayer CAPC1608N      2790.000      432.228       270      "CAP CER 22UF 6.3V X5R 0603"       
+U1         TPS62825                BottomLayer DMQ0006A       2576.031      2560.000      360      "IC STEP DOWN CONV 1-5V 2A QFN"    
+R3         100K                    BottomLayer RESC1005N      2395.000      2603.622      270      "RES SMD 100K OHM 1% 1/16W 0402"   
+R2         100K                    BottomLayer RESC1005N      2420.000      2530.000      360      "RES SMD 100K OHM 1% 1/16W 0402"   
+R1         453K                    BottomLayer RESC1005N      2445.000      2603.622      90       "RES SMD 453K OHM 1% 1/16W 0402"   
+L1         470nH                   BottomLayer IHLP-1212AE-11 2800.000      2505.000      270      "FIXED IND 470NH 6.7A 15 MOHM SMD" 
+C18        10uF                    BottomLayer CAPC2012N      2915.000      2505.000      270      "CAP CER 10UF 10V X7R 0805"        
+C17        4.7uF                   BottomLayer CAPC2012N      2565.000      2455.000      0        "CAP CER 4.7UF 25V X5R 0805"       
+C16        120pF                   BottomLayer CAPC1005N      2490.000      2603.307      90       "CAP CER 120PF 50V C0G/NP0 0402"   
+P3         DF12(3.0)-40DS-0.5V(86) BottomLayer DF12-40        1535.158      590.591       180      "CONN RECEPT 40POS 3MM SMD 0.5MM"  
+P2         DF12(3.0)-60DS-0.5V(86) BottomLayer DF12-60        1535.138      2165.394      180      "CONN RECEPT 60POS 3MM SMD 0.5MM"  
+C4         0.1uF                   BottomLayer CAPC1005N      2740.000      432.228       270      "CAP CER 0.1UF 50V X7R 0402"       
