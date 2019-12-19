@@ -1,26 +1,14 @@
-Output: Gerber X2 Files
-Type  : GerberX2
-From  : Project [mod_x_cb_g3399.PrjPCB]
-   Generated File[mod_duo_x_g3399_Copper_Signal_Top.gbr]
-   Generated File[mod_duo_x_g3399_Copper_Signal_1.gbr]
-   Generated File[mod_duo_x_g3399_Copper_Signal_2.gbr]
-   Generated File[mod_duo_x_g3399_Copper_Signal_Bot.gbr]
-   Generated File[mod_duo_x_g3399_Pads_Bot.gbr]
-   Generated File[mod_duo_x_g3399_Pads_Top.gbr]
-   Generated File[mod_duo_x_g3399_Legend_Top.gbr]
-   Generated File[mod_duo_x_g3399_Soldermask_Top.gbr]
-   Generated File[mod_duo_x_g3399_Paste_Bot.gbr]
-   Generated File[mod_duo_x_g3399_Legend_Bot.gbr]
-   Generated File[mod_duo_x_g3399_Soldermask_Bot.gbr]
-   Generated File[mod_duo_x_g3399_Paste_Top.gbr]
-   Generated File[mod_duo_x_g3399_Keep-out.gbr]
-   Generated File[mod_duo_x_g3399_Profile.gbr]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [mod_x_cb_g3399.PrjPCB]
+   Generated File[mod_duo_x_g3399.GD1]
+   Generated File[mod_duo_x_g3399.GG1]
    Generated File[mod_duo_x_g3399.RUL]
    Generated File[mod_duo_x_g3399.EXTREP]
    Generated File[mod_duo_x_g3399.REP]
 
 
-Files Generated   : 17
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 13:24:36 On 19/12/2019
+Finished Output Generation At 13:39:32 On 19/12/2019
