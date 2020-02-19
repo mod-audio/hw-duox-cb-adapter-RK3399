@@ -1,0 +1,10 @@
+20200214
+- CODEC_I2S_SDIN and CODEC_I2S_SDOUT signals are swapped.
+- Level shifting added to USB_HOST_DRV signal.
+- CV_ADC_DIN and CV_ADC_DOUT signals are swapped.
+- OE pin of U3, U4 and U5 are tied to VCCA with pull-up.
+- CODEC_I2S_SPDIF_SDIN pin is connected to i2S0_SD01 and removed from SPDIF_TX pin of SoM.
+- TXB0104 is replaced with TXS0104. 
+
+20200214
+- pull up removed from U3, U4, and U5 OE pins and pull down added.
