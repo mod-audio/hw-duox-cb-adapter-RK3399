@@ -1,0 +1,44 @@
+MOD Duo X controller board adapter (RK3399) hardware design files
+Copyright (c) 2019-2026 MOD Audio Limited
+
+Licensing
+---------
+
+Everything in this repository, on every branch and in its history, except the
+third-party files listed below, is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International licence (CC BY-NC-SA 4.0). Full text: LICENSE.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Third-party files
+-----------------
+
+The following files were made by their respective manufacturers or authors and
+are included only so the design opens and renders complete. They are NOT
+covered by the licence above. Their owners' terms apply; get them from the
+original source if you want to reuse them.
+
+- Rockchip RK3399 datasheet:
+    Documentation/Rockchip_RK3399_Datasheet_V1.8-20180529.pdf
+- Manufacturer 3D models of components, embedded in the board 3D export and in
+  the integrated libraries:
+    3D/mod_duo_x_g3399.step
+    3D/mod_duo_x_g3399.pdf
+    PCB Source/*.IntLib
+
+Trademarks
+----------
+
+The MOD logo is a registered trademark (EU trade mark no. 016228827; UK trade
+mark no. UK00916228827).
+
+No licence in this repository grants any right to use the MOD name or logo.
+Any MOD logo in these files (board silkscreen) is included for
+reference only. Anything you build or derive from these files must not carry
+the MOD logo and must not be presented as a MOD product or as made or endorsed
+by MOD Audio.
+
+No warranty
+-----------
+
+These files are provided as-is, without warranty of any kind. See the
+disclaimer in the licence text.
